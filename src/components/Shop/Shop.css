@@ -3,6 +3,13 @@
     grid-template-columns: 4fr 1fr;
 }
 
+.cart-container {
+    background-color: rgb(222, 163, 90);
+    margin-left: 20px;
+    border-radius: 5px;
+
+}
+
 .products-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
